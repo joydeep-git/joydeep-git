@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joydeep-git
-- 👀 I’m interested in Web programmmings
+- 👀 I’m interested in showing magic digitally on websites.
 - 🌱 I’m currently learning Full Stack Development
 - 📫 reach me on LinkedIn (Link- https://www.linkedin.com/in/joy-deep-das/ )
 
