@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joydeep Das
-- 👀 I’m interested in showing digital magics.
+- 👀 I’m interested in writing complex logic and solving application problems.
 - 🌱 I’m currently learning Full Stack Development
 - 📫 reach me on LinkedIn (Link- https://www.linkedin.com/in/joy-deepdas/)
 
