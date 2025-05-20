@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joydeep Das
 - 👀 Interested in solving complex logical problems and building highly scalable applications.
 - 🌱 Currently learning DSA.
-- 🌐 Portfolio: [My Portfolio](https://joy-deep.vercel.app/)
-- 📫 LinkedIn: [Joydeep Das](https://www.linkedin.com/in/joy-deepdas/)
+- 🌐 My Portfolio: [https://joy-deep.vercel.app](https://joy-deep.vercel.app/)
+- 📫 LinkedIn: [https://www.linkedin.com/in/joy-deepdas](https://www.linkedin.com/in/joy-deepdas/)
