@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joydeep Das</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on ** Newsglance ( AI News Platform )**
+- 🔭 I’m currently working on **Newsglance ( AI News Platform )**
 
 - 🌱 I’m currently learning **Docker, Redis and AWS**
 
