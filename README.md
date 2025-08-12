@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joydeep Das</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **AI News Platform**
+- 🔭 I’m currently working on ** Newsglance ( AI News Platform )**
 
-- 🌱 I’m currently learning **React Native and Java (Spring Boot)**
+- 🌱 I’m currently learning **Docker, Redis and AWS**
 
 - 👨‍💻 All of my projects are available at [https://joy-deep.vercel.app](https://joy-deep.vercel.app)
 
