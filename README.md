@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Repolab**
 
-- 🌱 I’m currently learning **React Native and Java (Spring Boot)**
+- 🌱 I’m currently learning **Java (Spring Boot)**
 
 - 👨‍💻 All of my projects are available at [https://joy-deep.vercel.app](https://joy-deep.vercel.app)
 
