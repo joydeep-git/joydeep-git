@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://joy-deep.vercel.app](https://joy-deep.vercel.app)
 
-- 💬 Ask me about **Next.js, Node.js and TypeScript**
+- 💬 Ask me about **Node.js, Redis, Prisma, PgSQL and AWS**
 
 - 📫 How to reach me **joydeepdas@zohomail.com**
 
