@@ -47,14 +47,6 @@
 
 <br>
 
-**[Karosauda.com](#)** &nbsp;—&nbsp; GST Billing Platform &nbsp;·&nbsp; Brihat Infotech
-
-> Full-featured GST billing platform built during internship. End-to-end ownership of frontend and backend.
-
-`Next.js` `Node.js` `TypeScript` `MongoDB`
-
-<br>
-
 ---
 
 ## Experience
