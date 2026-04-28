@@ -1,33 +1,106 @@
-<h1 align="center">Hello, I'm Joydeep Das</h1>
-<h3 align="center">Full Stack Developer</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Repolab**
+```
+console.log("Hello, World!")
+```
 
-- 🌱 I’m currently learning **Java (Spring Boot)**
+# I'm Joydeep Das
 
-- 👨‍💻 All of my projects are available at [https://joy-deep.vercel.app](https://joy-deep.vercel.app)
+**`Full Stack Developer`**
 
-- 💬 Ask me about **Node.js, Redis, Prisma, PgSQL and AWS**
+![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=5C4EE5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=1D9E75)
+![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=378ADD)
+![Redis](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=5C4EE5)
+![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=378ADD)
 
-- 📫 How to reach me **joydeepdas@zohomail.com**
+🟢 **Currently building** [Repolab](https://joy-deep.vercel.app) &nbsp;·&nbsp; 📖 **Learning** Java & Spring Boot
 
-- 📄 Know about my experiences [https://joy-deep.vercel.app/JOYDEEP_DAS_RESUME.pdf](https://joy-deep.vercel.app/JOYDEEP_DAS_RESUME.pdf)
+</div>
 
-- ⚡ Fun fact **I love exploring Street Foods.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/altonix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="altonix" height="30" width="40" /></a>
-<a href="https://twitter.com/joy_deep_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joy_deep_19" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joy-deepdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joy-deepdas" height="30" width="40" /></a>
-<a href="https://medium.com/@altonix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@altonix" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/3rr0rs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="3rr0rs" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/altonix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="altonix" height="30" width="40" /></a>
-</p>
+## `$ whoami`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+```yaml
+name    : Joydeep Das
+role    : Full Stack Developer
+email   : joydeepdas@zohomail.com
+site    : https://joy-deep.vercel.app
+resume  : https://joy-deep.vercel.app/JOYDEEP_DAS_RESUME.pdf
+ask_me  : Node.js · Redis · Prisma · PostgreSQL · AWS
+fun_fact: I love exploring street foods ⚡
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joydeep-git&show_icons=true&theme=dark&locale=en&layout=compact" alt="joydeep-git" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joydeep-git&show_icons=true&locale=en" alt="joydeep-git" /></p>
+## `$ ls tech-stack/`
+
+**Backend & Infrastructure**
+
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333?style=flat&logo=spring-boot)
+![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![Prisma](https://img.shields.io/badge/-Prisma-333?style=flat&logo=prisma)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![Redux](https://img.shields.io/badge/-Redux-333?style=flat&logo=redux)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwind-css)
+![SASS](https://img.shields.io/badge/-SASS-333?style=flat&logo=sass)
+![Webpack](https://img.shields.io/badge/-Webpack-333?style=flat&logo=webpack)
+
+**Tools**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman)
+
+---
+
+## `$ cat social-links.txt`
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joy--deepdas-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/joy-deepdas)
+[![Twitter](https://img.shields.io/badge/Twitter-@joy__deep__19-1DA1F2?style=flat&logo=twitter)](https://twitter.com/joy_deep_19)
+[![Dev.to](https://img.shields.io/badge/Dev.to-altonix-0A0A0A?style=flat&logo=dev.to)](https://dev.to/altonix)
+[![Medium](https://img.shields.io/badge/Medium-@altonix-12100E?style=flat&logo=medium)](https://medium.com/@altonix)
+[![HackerRank](https://img.shields.io/badge/HackerRank-3rr0rs-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/3rr0rs)
+[![LeetCode](https://img.shields.io/badge/LeetCode-altonix-FFA116?style=flat&logo=leetcode)](https://www.leetcode.com/altonix)
+
+</div>
+
+---
+
+## `$ git log --stat`
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joydeep-git&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joydeep-git&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*made with ♥ from Kolkata, India*
+
+</div>
